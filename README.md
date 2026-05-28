@@ -196,27 +196,6 @@ Young adults generate the highest revenue.
 | Senior | 944 |
 | Adult | 942 |
 
----
-
-# Project Structure
-
-
-customer-shopping-behavior-analysis/
-│
-├── dataset/
-│   └── customer_shopping_data.csv
-│
-├── sql/
-│   └── SQL_Queries.sql
-│
-├── powerbi/
-│   └── customer_shopping_behavior_dashboard.pbix
-│
-├── screenshots/
-│   └── dashboard.png
-│
-└── README.md
-
 
 ---
 
